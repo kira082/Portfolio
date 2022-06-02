@@ -1,6 +1,20 @@
-title: Bhavesh Vijay
-logo: /assets/img/IMG-20220301-WA0009.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Bhavesh Vijay </p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/bhaveshvijay082/">LinkedIn</a> |
+  <a href="https://github.com/kira082">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Machine learning & MLOps related problems.
+  Also handing the SAP cloud and Machine learning solution
+  Worked with E&Y Research at Secure Machine learning Model.
+  Working in Engineering domain for 3 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
